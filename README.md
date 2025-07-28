@@ -41,7 +41,7 @@
 
 ### 📬 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/federicogurevich)
+- [LinkedIn]([https://www.linkedin.com/in/federicogurevich](https://www.linkedin.com/in/federico-g-87802154/))
 - 🌎 Based in Corrientes, Argentina
 - 🧠 Languages: Spanish, English (FCE Cambridge), Portuguese (intermediate)
 
@@ -96,7 +96,7 @@
 
 ### 📬 ¿Cómo contactarme?
 
-- [LinkedIn](https://www.linkedin.com/in/federicogurevich)
+- [LinkedIn]([https://www.linkedin.com/in/federicogurevich](https://www.linkedin.com/in/federico-g-87802154/))
 - 🌎 Ubicación: Corrientes, Argentina
 - 🧠 Idiomas: español, inglés (FCE Cambridge), portugués intermedio
 
